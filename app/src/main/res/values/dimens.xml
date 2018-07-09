@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="during_length">1000.0</dimen>
+    <dimen name="during_length_half">500.0</dimen>
+
+
+</resources>
